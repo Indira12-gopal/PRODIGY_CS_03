@@ -30,6 +30,14 @@ from tkinter import messagebox
    ```bash
    python task03.py
    ```
+## Output :
+
+--When program starts and we enter password :
+![T1](https://github.com/Indira12-gopal/PRODIGY_CS_03/blob/main/o03%20(1).jpeg)
+
+--When we have entered password "indir@Bhatta4jee" we get:
+
+![T2](https://github.com/Indira12-gopal/PRODIGY_CS_03/blob/main/o03%20(2).jpeg)
 
 ## Usage
 1. Enter a password into the input field.
